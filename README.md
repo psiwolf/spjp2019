@@ -6,3 +6,5 @@ Aliasy umieszczamy w pliku *~/.bashrc*.
 ```sh
    alias l ='ls-l'
 ```
+
+Jak nie kopiować numerów wierszy w bat?
