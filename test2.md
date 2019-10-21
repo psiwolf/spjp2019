@@ -1,4 +1,6 @@
-   1   │ ##test file for testing master b
-       │ ranch in git
-   2   │ ```commands git pull, push, comm
-       │ it and status
+##test file for testing maste branch in git
+```commands git pull, push, commit and status
+
+File ready to pull to local machine
+````
+
