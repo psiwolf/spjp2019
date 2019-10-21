@@ -7,4 +7,4 @@ Aliasy umieszczamy w pliku *~/.bashrc*.
    alias l ='ls-l'
 ```
 
-Jak nie kopiować numerów wierszy w bat?
+Jak nie kopiować numerów wierszy w bat? - do sprawdzenia na stackoverflow.com
